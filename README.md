@@ -22,7 +22,7 @@ It combines multiple security utilities into a single interactive terminal appli
 ✅ Encrypt & Decrypt Text
 ✅ Learn Practical Cryptography Concepts
 
-<img src="banner.png" width="100%">
+<img src="banner.jpg" width="100%">
 
 «⚠️ This project is intended strictly for Educational, Research and CTF Purposes Only.»
 
