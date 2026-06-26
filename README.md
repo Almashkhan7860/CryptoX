@@ -1,4 +1,4 @@
-🔐 CryptoX - Hash & Encryption Toolkit
+# 🔐 CryptoX - Hash & Encryption Toolkit
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
@@ -123,7 +123,8 @@ Features:
 
 Clone Repository
 
-git clone https://github.com/yourusername/CryptoX.git
+git clone https://github.com/Almashkhan7860/CryptoX.git
+
 cd CryptoX
 
 Install Dependencies
